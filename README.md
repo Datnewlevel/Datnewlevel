@@ -15,7 +15,7 @@
 
 ## 🚀 Mục tiêu sắp tới
 - Hoàn thiện & public các đồ án cá nhân về ESP32/STM32  
-- Tìm hiểu sâu hơn về **Low-power IoT** và tối ưu phần cứng  
+- Tìm hiểu sâu hơn về **IoT** và **AI**
 - Nâng cao kỹ năng về **Firmware development**  
 
 ---
