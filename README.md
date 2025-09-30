@@ -10,7 +10,7 @@
 - ⚡ **Vi điều khiển:** ESP32, STM32, Arduino  
 - 📐 **Thiết kế mạch PCB:** Altium Designer  
 - 💻 **Ngôn ngữ:** C/C++, Python (cơ bản cho nhúng)  
- 
+- 🔧 **Hàn mạch**
 ---
 
 ## 🚀 Mục tiêu sắp tới
