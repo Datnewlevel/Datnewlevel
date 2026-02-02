@@ -1,13 +1,20 @@
+<div align="center">
+
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Dat. I am an Electronics and Telecommunications student specializing in Embedded Programming. I am interested in the following topics: PCB Design using Altium Designer, Computer Vision, and microcontrollers such as ESP32, STM32, and Arduino. <br>
 
 ---
 
-## 📫 How to reach me:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Embedded+Systems+Developer;PCB+Designer;IoT+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/đỗ-bảo-đạt-770aa1281) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Datnewlevel) [![YouTube](https://img.icons8.com/color/20/youtube-play.png) YouTube](https://www.youtube.com/channel/UCGtHfsIPfbpagkR0Aca5TPA)
+<br>
 
-**Email:** dobaodat234@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/đỗ-bảo-đạt-770aa1281)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Datnewlevel)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGtHfsIPfbpagkR0Aca5TPA)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dobaodat234@gmail.com)
+
+</div>
 
 ---
 
@@ -35,13 +42,17 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 
 **Most Used Languages:** C (96.65%) • Assembly (1.17%) • CMake (0.67%)
 
+<div align="center">
+
 ---
 
 ##  Featured Projects
 
-<table>
+---
+
+<table border="3" style="border: 3px solid #00D9FF; border-collapse: collapse;">
 <tr>
-<td width="50%">
+<td width="50%" style="border: 3px solid #00D9FF; padding: 15px;">
 
 ###  Smart Flood Warning System
 **IoT-based flood detection and warning system**
@@ -49,7 +60,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 [🔗 View Project →](https://github.com/Datnewlevel/Smart-flood-warning-system)
 
 </td>
-<td width="50%">
+<td width="50%" style="border: 3px solid #00D9FF; padding: 15px;">
 
 ###  Weight Sorting System
 **Automated weight-based sorting solution**
@@ -60,7 +71,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" style="border: 3px solid #00D9FF; padding: 15px;">
 
 ###  My Own Arduino
 **Custom Arduino board design**
@@ -68,7 +79,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 [🔗 View Project →](https://github.com/Datnewlevel/My_own_adruino)
 
 </td>
-<td width="50%">
+<td width="50%" style="border: 3px solid #00D9FF; padding: 15px;">
 
 ###  Study STM32
 **STM32 learning resources & projects**
@@ -79,7 +90,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" style="border: 3px solid #00D9FF; padding: 15px;">
 
 ###  ATmega32 & Proteus
 **AVR microcontroller projects**
@@ -87,7 +98,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 [🔗 View Project →](https://github.com/Datnewlevel/Study_Atmega32_and_Proteus)
 
 </td>
-<td width="50%">
+<td width="50%" style="border: 3px solid #00D9FF; padding: 15px;">
 </td>
 </tr>
 
