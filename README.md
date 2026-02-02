@@ -42,31 +42,65 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 
 **Most Used Languages:** C (96.65%) • Assembly (1.17%) • CMake (0.67%)
 
-<div align="center">
-
 ---
 
 ##  Featured Projects
 
----
+<div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+<h3> Smart Flood Warning System</h3>
+<p><strong>IoT-based flood detection and warning system</strong></p>
+<br>
 <a href="https://github.com/Datnewlevel/Smart-flood-warning-system">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Datnewlevel&repo=Smart-flood-warning-system&theme=tokyonight&hide_border=false&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</td>
+<td width="50%" align="center">
+<h3> Weight Sorting System</h3>
+<p><strong>Automated weight-based sorting solution</strong></p>
+<br>
 <a href="https://github.com/Datnewlevel/Weight-Sorting-System">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Datnewlevel&repo=Weight-Sorting-System&theme=tokyonight&hide_border=false&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</td>
+</tr>
 
+<tr>
+<td width="50%" align="center">
+<h3> My Own Arduino</h3>
+<p><strong>Custom Arduino board design</strong></p>
+<br>
 <a href="https://github.com/Datnewlevel/My_own_adruino">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Datnewlevel&repo=My_own_adruino&theme=tokyonight&hide_border=false&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</td>
+<td width="50%" align="center">
+<h3> Study STM32</h3>
+<p><strong>STM32 learning resources & projects</strong></p>
+<br>
 <a href="https://github.com/Datnewlevel/Study_Stm32">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Datnewlevel&repo=Study_Stm32&theme=tokyonight&hide_border=false&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</td>
+</tr>
 
+<tr>
+<td width="50%" align="center">
+<h3> ATmega32 & Proteus</h3>
+<p><strong>AVR microcontroller projects</strong></p>
+<br>
 <a href="https://github.com/Datnewlevel/Study_Atmega32_and_Proteus">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Datnewlevel&repo=Study_Atmega32_and_Proteus&theme=tokyonight&hide_border=false&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</td>
+<td width="50%" align="center">
+</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -77,11 +111,9 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 ![](https://img.shields.io/github/followers/Datnewlevel?style=social)
 ![](https://img.shields.io/github/stars/Datnewlevel?style=social)
 
-
 ---
 
 <div align="center">
-
 
 ✨ **Thanks for visiting my profile!** ✨
 
