@@ -30,6 +30,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 ![](https://img.shields.io/badge/Platform-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![](https://img.shields.io/badge/Platform-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![](https://img.shields.io/badge/Platform-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/Platform-Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![](https://img.shields.io/badge/Tool-Altium_Designer-A5915F?style=for-the-badge)
 
 **Most Used Languages:** C (96.65%) • Assembly (1.17%) • CMake (0.67%)
