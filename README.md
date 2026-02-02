@@ -50,59 +50,25 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 
 ---
 
-<table border="3" style="border: 3px solid #00D9FF; border-collapse: collapse;">
-<tr>
-<td width="50%" style="border: 3px solid #00D9FF; padding: 15px;">
+<a href="https://github.com/Datnewlevel/Smart-flood-warning-system">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Datnewlevel&repo=Smart-flood-warning-system&theme=tokyonight&hide_border=false&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+<a href="https://github.com/Datnewlevel/Weight-Sorting-System">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Datnewlevel&repo=Weight-Sorting-System&theme=tokyonight&hide_border=false&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
 
-###  Smart Flood Warning System
-**IoT-based flood detection and warning system**
+<a href="https://github.com/Datnewlevel/My_own_adruino">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Datnewlevel&repo=My_own_adruino&theme=tokyonight&hide_border=false&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+<a href="https://github.com/Datnewlevel/Study_Stm32">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Datnewlevel&repo=Study_Stm32&theme=tokyonight&hide_border=false&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
 
-[🔗 View Project →](https://github.com/Datnewlevel/Smart-flood-warning-system)
+<a href="https://github.com/Datnewlevel/Study_Atmega32_and_Proteus">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Datnewlevel&repo=Study_Atmega32_and_Proteus&theme=tokyonight&hide_border=false&border_color=00D9FF&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+</a>
 
-</td>
-<td width="50%" style="border: 3px solid #00D9FF; padding: 15px;">
-
-###  Weight Sorting System
-**Automated weight-based sorting solution**
-
-[🔗 View Project →](https://github.com/Datnewlevel/Weight-Sorting-System)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" style="border: 3px solid #00D9FF; padding: 15px;">
-
-###  My Own Arduino
-**Custom Arduino board design**
-
-[🔗 View Project →](https://github.com/Datnewlevel/My_own_adruino)
-
-</td>
-<td width="50%" style="border: 3px solid #00D9FF; padding: 15px;">
-
-###  Study STM32
-**STM32 learning resources & projects**
-
-[🔗 View Project →](https://github.com/Datnewlevel/Study_Stm32)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" style="border: 3px solid #00D9FF; padding: 15px;">
-
-###  ATmega32 & Proteus
-**AVR microcontroller projects**
-
-[🔗 View Project →](https://github.com/Datnewlevel/Study_Atmega32_and_Proteus)
-
-</td>
-<td width="50%" style="border: 3px solid #00D9FF; padding: 15px;">
-</td>
-</tr>
-
-</table>
+</div>
 
 ---
 
