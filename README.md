@@ -78,10 +78,10 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 </a>
 </td>
 <td width="50%" align="center">
-<h3> Study STM32</h3>
-<p><strong>STM32 learning resources & projects</strong></p>
+<h3> My Own PLC</h3>
+<p><strong>Custom PLC implementation</strong></p>
 <br>
-<a href="https://github.com/Datnewlevel/Study_Stm32">
+<a href="https://github.com/Datnewlevel/My_own_PLC">
 <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
@@ -97,6 +97,12 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 </a>
 </td>
 <td width="50%" align="center">
+<h3> Study STM32</h3>
+<p><strong>STM32 learning resources & projects</strong></p>
+<br>
+<a href="https://github.com/Datnewlevel/Study_Stm32">
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </td>
 </tr>
 
