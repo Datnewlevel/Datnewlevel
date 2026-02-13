@@ -89,10 +89,10 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 
 <tr>
 <td width="50%" align="center">
-<h3> ATmega32 & Proteus</h3>
-<p><strong>AVR microcontroller projects</strong></p>
+<h3> Raspberry Pi Doorbell System</h3>
+<p><strong>Motion-activated doorbell with email notifications</strong></p>
 <br>
-<a href="https://github.com/Datnewlevel/Study_Atmega32_and_Proteus">
+<a href="https://github.com/Datnewlevel/Raspberry-doorbell-system">
 <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
@@ -103,6 +103,19 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 <a href="https://github.com/Datnewlevel/Study_Stm32">
 <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3> ATmega32 & Proteus</h3>
+<p><strong>AVR microcontroller projects</strong></p>
+<br>
+<a href="https://github.com/Datnewlevel/Study_Atmega32_and_Proteus">
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td width="50%" align="center">
 </td>
 </tr>
 
