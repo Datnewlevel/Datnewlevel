@@ -51,6 +51,14 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 <table>
 <tr>
 <td width="50%" align="center">
+<h3> IoT Construction Fleet Monitor</h3>
+<p><strong>IoT-based construction fleet monitoring system</strong></p>
+<br>
+<a href="https://github.com/Datnewlevel/Iot_construction_fleet_monitor">
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td width="50%" align="center">
 <h3> Smart Flood Warning System</h3>
 <p><strong>IoT-based flood detection and warning system</strong></p>
 <br>
@@ -58,11 +66,22 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
+</tr>
+
+<tr>
 <td width="50%" align="center">
 <h3> Weight Sorting System</h3>
 <p><strong>Automated weight-based sorting solution</strong></p>
 <br>
 <a href="https://github.com/Datnewlevel/Weight-Sorting-System">
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td width="50%" align="center">
+<h3> My Own ESP32</h3>
+<p><strong>Custom ESP32 board design</strong></p>
+<br>
+<a href="https://github.com/Datnewlevel/My_own_esp32">
 <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
@@ -89,6 +108,14 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 
 <tr>
 <td width="50%" align="center">
+<h3> Pi5 Object Detection with Coral</h3>
+<p><strong>Raspberry Pi 5 object detection using Coral TPU</strong></p>
+<br>
+<a href="https://github.com/Datnewlevel/Pi5_object_detection_with_coral">
+<img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td width="50%" align="center">
 <h3> Raspberry Pi Doorbell System</h3>
 <p><strong>Motion-activated doorbell with email notifications</strong></p>
 <br>
@@ -96,6 +123,9 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
+</tr>
+
+<tr>
 <td width="50%" align="center">
 <h3> Study STM32</h3>
 <p><strong>STM32 learning resources & projects</strong></p>
@@ -104,20 +134,16 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
-</tr>
-
-<tr>
 <td width="50%" align="center">
-<h3> ATmega32 & Proteus</h3>
-<p><strong>AVR microcontroller projects</strong></p>
+<h3> My First ESP Drone</h3>
+<p><strong>ESP32-based drone project</strong></p>
 <br>
-<a href="https://github.com/Datnewlevel/Study_Atmega32_and_Proteus">
+<a href="https://github.com/Datnewlevel/My_first_esp_drone">
 <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
-<td width="50%" align="center">
-</td>
 </tr>
+
 
 </table>
 
