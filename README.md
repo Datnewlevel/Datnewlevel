@@ -127,7 +127,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 
 <tr>
 <td width="50%" align="center">
-<h3> Study STM32</h3>
+<h3> STM32 Fundamentals</h3>
 <p><strong>STM32 learning resources & projects</strong></p>
 <br>
 <a href="https://github.com/Datnewlevel/Study_Stm32">
@@ -135,7 +135,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 </a>
 </td>
 <td width="50%" align="center">
-<h3> My First ESP Drone</h3>
+<h3> ESP32 Drone</h3>
 <p><strong>ESP32-based drone project</strong></p>
 <br>
 <a href="https://github.com/Datnewlevel/My_first_esp_drone">
