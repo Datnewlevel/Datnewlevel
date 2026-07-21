@@ -48,7 +48,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 
 <div align="center">
 
-### 🛠 Firmware + Hardware
+###  Firmware + Hardware
 
 <table>
 <tr>
@@ -79,7 +79,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 </tr>
 </table>
 
-### ⚙️ Hardware Design
+###  Hardware Design
 
 <table>
 <tr>
@@ -110,7 +110,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 </tr>
 </table>
 
-### 👁️ Computer Vision
+###  Computer Vision
 
 <table>
 <tr>
@@ -133,7 +133,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 </tr>
 </table>
 
-### 📚 Study Projects
+###  Study Projects
 
 <table>
 <tr>
