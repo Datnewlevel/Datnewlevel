@@ -114,6 +114,12 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 <br>
 <a href="https://github.com/Datnewlevel/A.I-drone-pi5-hailo-hat.git"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
+<td width="300" align="center">
+<h3>WeedLaser Demo</h3>
+<p><strong>AI-based weed tracking and laser targeting system</strong></p>
+<br>
+<a href="https://github.com/Datnewlevel/WeedLaser-Demo"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
 </tr>
 </table>
 
