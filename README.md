@@ -48,123 +48,124 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 
 <div align="center">
 
-###  Firmware + Hardware
+<a href="https://youtu.be/m69HBxlxGLw">
+  <img
+    src="https://img.youtube.com/vi/m69HBxlxGLw/maxresdefault.jpg"
+    width="820"
+    alt="Autonomous Drone Delivery and Precision Landing with AprilTag"
+  />
+</a>
 
-<table>
-<tr>
-<td width="300" align="center">
-<h3>IoT Construction Fleet Monitor</h3>
-<p><strong>IoT-based construction fleet monitoring system</strong></p>
-<br>
-<a href="https://github.com/Datnewlevel/Iot_construction_fleet_monitor"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-<td width="300" align="center">
-<h3>Smart Flood Warning System</h3>
-<p><strong>IoT-based flood detection and warning system</strong></p>
-<br>
-<a href="https://github.com/Datnewlevel/Smart-flood-warning-system"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-<td width="300" align="center">
-<h3>Weight Sorting System</h3>
-<p><strong>Automated weight-based sorting solution</strong></p>
-<br>
-<a href="https://github.com/Datnewlevel/Weight-Sorting-System"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-</tr>
-</table>
+<h2> Autonomous Drone Delivery & Precision Landing</h2>
 
-### Hardware Design
+<p>
+An autonomous delivery drone that executes waypoint missions, detects an
+AprilTag landing pad, aligns its position and heading, lands precisely,
+and releases its cargo.
+</p>
 
-<table>
-<tr>
-<td width="300" align="center">
-<h3>My Own ESP32</h3>
-<p><strong>Custom ESP32 board design</strong></p>
-<br>
-<a href="https://github.com/Datnewlevel/My_own_esp32"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-<td width="300" align="center">
-<h3>My Own Arduino</h3>
-<p><strong>Custom Arduino board design</strong></p>
-<br>
-<a href="https://github.com/Datnewlevel/My_own_adruino"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-<td width="300" align="center">
-<h3>My Own PLC</h3>
-<p><strong>Custom PLC implementation</strong></p>
-<br>
-<a href="https://github.com/Datnewlevel/My_own_PLC"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-</tr>
-</table>
+<p>
+The drone communicates with a custom ground control station through a
+<strong>4G network</strong>.
+</p>
 
-###  Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/ArduPilot-1A1A1A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi_5-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AprilTag-FFB020?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAVLink-00A6D6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gazebo_SITL-F58113?style=flat-square" />
+</p>
 
-<h3>🚁 Autonomous Drone Delivery &amp; Precision Landing with AprilTag</h3>
-
-<p><strong>Custom quadcopter that flies a waypoint mission on its own,<br>
-finds a printed landing pad with a downward camera, aligns position and heading,<br>
-lands on it and releases its cargo — reporting to a ground station<br>
-I built myself, over 4G</strong></p>
-
-<p><em>ArduPilot · Raspberry Pi 5 · AprilTag · OpenCV · MAVLink · Gazebo + SITL</em></p>
-
-<a href="https://github.com/Datnewlevel/Autonomous-Drone-Delivery"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://youtu.be/m69HBxlxGLw"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
-<br><br>
-
-<table>
-<tr>
-<td width="300" align="center">
-<h3>Pi5 Object Detection with Coral</h3>
-<p><strong>Raspberry Pi 5 object detection using Coral TPU</strong></p>
-<br>
-<a href="https://github.com/Datnewlevel/Pi5_object_detection_with_coral"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-<td width="300" align="center">
-<h3>A.I Drone Pi5 Hailo HAT</h3>
-<p><strong>A.I Drone using Raspberry Pi 5 and Hailo HAT</strong></p>
-<br>
-<a href="https://github.com/Datnewlevel/A.I-drone-pi5-hailo-hat"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-<td width="300" align="center">
-<h3>WeedLaser Demo</h3>
-<p><strong>AI-based weed tracking and laser targeting system</strong></p>
-<br>
-<a href="https://github.com/Datnewlevel/WeedLaser-Demo"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-</tr>
-</table>
-
-###  Study Projects
-
-<table>
-<tr>
-<td width="300" align="center">
-<h3>ESP32 Drone</h3>
-<p><strong>ESP32-based drone project</strong></p>
-<br>
-<a href="https://github.com/Datnewlevel/My_first_esp_drone"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-<td width="300" align="center">
-<h3>STM32 Fundamentals</h3>
-<p><strong>STM32 learning resources & projects</strong></p>
-<br>
-<a href="https://github.com/Datnewlevel/Study_Stm32"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-<td width="300" align="center">
-<h3>Raspberry Pi Doorbell System</h3>
-<p><strong>Motion-activated doorbell with email notifications</strong></p>
-<br>
-<a href="https://github.com/Datnewlevel/Raspberry-doorbell-system"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-</tr>
-</table>
+<a href="https://github.com/Datnewlevel/Autonomous-Drone-Delivery">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://youtu.be/m69HBxlxGLw">
+  <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 </div>
 
----
+<br>
+
+### 🛠️ Other Highlighted Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+###  [IoT Construction Fleet Monitor](https://github.com/Datnewlevel/Iot_construction_fleet_monitor)
+
+IoT system for monitoring construction vehicles and fleet activity.
+
+`IoT` `Embedded Systems` `Monitoring`
+
+[![Repository](https://img.shields.io/badge/View_Repository-00A6D6?style=flat-square&logo=github&logoColor=white)](https://github.com/Datnewlevel/Iot_construction_fleet_monitor)
+
+</td>
+<td width="50%" valign="top">
+
+###  [Smart Flood Warning System](https://github.com/Datnewlevel/Smart-flood-warning-system)
+
+Real-time flood detection and early-warning system.
+
+`Sensors` `IoT` `Alert System`
+
+[![Repository](https://img.shields.io/badge/View_Repository-00A6D6?style=flat-square&logo=github&logoColor=white)](https://github.com/Datnewlevel/Smart-flood-warning-system)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+###  [Custom ESP32 Board](https://github.com/Datnewlevel/My_own_esp32)
+
+A custom ESP32 development board designed from schematic to PCB.
+
+`ESP32` `Altium Designer` `PCB Design`
+
+[![Repository](https://img.shields.io/badge/View_Repository-00A6D6?style=flat-square&logo=github&logoColor=white)](https://github.com/Datnewlevel/My_own_esp32)
+
+</td>
+<td width="50%" valign="top">
+
+###  [WeedLaser](https://github.com/Datnewlevel/WeedLaser-Demo)
+
+Computer-vision system for weed detection, tracking, and laser targeting.
+
+`Computer Vision` `Object Tracking` `Embedded AI`
+
+[![Repository](https://img.shields.io/badge/View_Repository-00A6D6?style=flat-square&logo=github&logoColor=white)](https://github.com/Datnewlevel/WeedLaser-Demo)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 View more projects</b></summary>
+
+<br>
+
+#### Hardware Design
+
+- [My Own Arduino](https://github.com/Datnewlevel/My_own_adruino) — Custom Arduino-compatible board
+- [My Own PLC](https://github.com/Datnewlevel/My_own_PLC) — Custom PLC implementation
+- [Weight Sorting System](https://github.com/Datnewlevel/Weight-Sorting-System) — Automated weight-based sorting
+
+#### Computer Vision & AI
+
+- [Pi 5 Object Detection with Coral](https://github.com/Datnewlevel/Pi5_object_detection_with_coral)
+- [AI Drone with Raspberry Pi 5 and Hailo HAT](https://github.com/Datnewlevel/A.I-drone-pi5-hailo-hat)
+
+#### Learning Projects
+
+- [ESP32 Drone](https://github.com/Datnewlevel/My_first_esp_drone)
+- [STM32 Fundamentals](https://github.com/Datnewlevel/Study_Stm32)
+- [Raspberry Pi Doorbell](https://github.com/Datnewlevel/Raspberry-doorbell-system)
+
+</details>
 
 ## 📈 GitHub Activity
 
