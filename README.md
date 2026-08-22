@@ -100,6 +100,20 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 
 ###  Computer Vision
 
+<h3>🚁 Autonomous Drone Delivery &amp; Precision Landing with AprilTag</h3>
+
+<p><strong>Custom quadcopter that flies a waypoint mission on its own,<br>
+finds a printed landing pad with a downward camera, aligns position and heading,<br>
+lands on it and releases its cargo — reporting to a ground station<br>
+I built myself, over 4G</strong></p>
+
+<p><em>ArduPilot · Raspberry Pi 5 · AprilTag · OpenCV · MAVLink · Gazebo + SITL</em></p>
+
+<a href="https://github.com/Datnewlevel/Autonomous-Drone-Delivery"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://youtu.be/m69HBxlxGLw"><img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
+<br><br>
+
 <table>
 <tr>
 <td width="300" align="center">
@@ -112,7 +126,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 <h3>A.I Drone Pi5 Hailo HAT</h3>
 <p><strong>A.I Drone using Raspberry Pi 5 and Hailo HAT</strong></p>
 <br>
-<a href="https://github.com/Datnewlevel/A.I-drone-pi5-hailo-hat.git"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Datnewlevel/A.I-drone-pi5-hailo-hat"><img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 <td width="300" align="center">
 <h3>WeedLaser Demo</h3>
