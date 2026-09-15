@@ -22,7 +22,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 
 ```text
  Microcontrollers    →  ESP32, STM32, Arduino, Raspberry Pi
- PCB Design          →  Altium Designer
+ PCB Design          →  Altium Designer, KiCad
  Programming         →  C/C++, Python
  Hardware            →  Soldering & Component Assembly
 ```
