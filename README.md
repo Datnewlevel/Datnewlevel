@@ -1,7 +1,7 @@
 <div align="center">
 
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Dat. I am an Electronics and Telecommunications student specializing in Embedded Programming. I am interested in the following topics: PCB Design using Altium Designer, Computer Vision, and microcontrollers such as ESP32, STM32, and Arduino. <br>
+My name is Dat. I am an Electronics and Telecommunications student specializing in Embedded Programming. I am interested in the following topics: PCB Design using Altium Designer and KiCad, Computer Vision, and microcontrollers such as ESP32, STM32, and Arduino. <br>
 
 ---
 
@@ -39,6 +39,7 @@ My name is Dat. I am an Electronics and Telecommunications student specializing 
 ![](https://img.shields.io/badge/Platform-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![](https://img.shields.io/badge/Platform-Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![](https://img.shields.io/badge/Tool-Altium_Designer-A5915F?style=for-the-badge)
+![](https://img.shields.io/badge/Tool-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
 **Most Used Languages:** C (96.65%) • Assembly (1.17%) • CMake (0.67%)
 
@@ -89,9 +90,85 @@ The drone communicates with a custom ground control station through a
 
 <br>
 
+<div align="center">
+
+<a href="https://github.com/Datnewlevel/UTT-UAV-FC">
+  <img
+    src="https://raw.githubusercontent.com/Datnewlevel/UTT-UAV-FC/main/3dview.png"
+    height="380"
+    alt="UTT-UAV-FC flight controller, KiCad 3D render of Version 2"
+  />
+</a>
+<a href="https://github.com/Datnewlevel/UTT-UAV-FC">
+  <img
+    src="https://raw.githubusercontent.com/Datnewlevel/UTT-UAV-FC/main/mach_khong.jpg"
+    height="380"
+    alt="UTT-UAV-FC Version 1 bare PCBs"
+  />
+</a>
+
+<p><sub>Left: KiCad 3D render of Version 2 &nbsp;•&nbsp; Right: fabricated Version 1 bare PCBs</sub></p>
+
+<h2> STM32F405 Flight Controller (UTT-UAV-FC)</h2>
+
+<p>
+A custom flight controller board built around the <strong>STM32F405</strong>,
+designed from schematic to a four-layer PCB in KiCad, with ports for
+ESC, GPS, RX, VTX and servo, plus USB-C.
+</p>
+
+<p>
+Version 1 has been fabricated and brought up.
+<strong>Version 2</strong>, with the fixes found during bring-up, is being ordered.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/STM32F405-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/4--Layer_PCB-1A7F37?style=flat-square" />
+  <img src="https://img.shields.io/badge/Flight_Controller-00A6D6?style=flat-square" />
+  <img src="https://img.shields.io/badge/V2-Being_Ordered-DB6D28?style=flat-square" />
+</p>
+
+<a href="https://github.com/Datnewlevel/UTT-UAV-FC">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Datnewlevel/UTT-UAV-FC#pcb-layer-documentation">
+  <img src="https://img.shields.io/badge/PCB_Layers-1A7F37?style=for-the-badge&logo=kicad&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
 ### 🛠️ Other Highlighted Projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+<a href="https://github.com/Datnewlevel/STM32F051-ESC">
+  <img
+    src="https://raw.githubusercontent.com/Datnewlevel/STM32F051-ESC/main/ESC_PCB/Untitled5.png"
+    width="240"
+    align="left"
+    alt="STM32F051 ESC, KiCad 3D render"
+  />
+</a>
+
+###  [STM32F051 ESC](https://github.com/Datnewlevel/STM32F051-ESC)
+
+Open-source three-phase ESC hardware designed in KiCad to study how ESCs work:
+STM32F051 MCU, DRV8300 gate driver, six-MOSFET bridge, back-EMF and current
+sensing on a four-layer PCB. The first revision is being ordered.
+
+`ESC` `STM32` `KiCad` `Power Electronics`
+
+[![Repository](https://img.shields.io/badge/View_Repository-00A6D6?style=flat-square&logo=github&logoColor=white)](https://github.com/Datnewlevel/STM32F051-ESC)
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -161,8 +238,8 @@ Computer-vision system for weed detection, tracking, and laser targeting.
 
 #### Learning Projects
 
-- [ESP32 Drone](https://github.com/Datnewlevel/My_first_esp_drone)
-- [STM32 Fundamentals](https://github.com/Datnewlevel/Study_Stm32)
+- [ESP32 Drone](https://github.com/Datnewlevel/Esp32_drone)
+- [STM32 Fundamentals](https://github.com/Datnewlevel/STM32-Fundamentals)
 - [Raspberry Pi Doorbell](https://github.com/Datnewlevel/Raspberry-doorbell-system)
 
 </details>
